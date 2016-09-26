@@ -1,0 +1,861 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <MainData>
+    <StepName>Start</StepName>
+    <Column1>17</Column1>
+    <Y1>27</Y1>
+    <Width>106</Width>
+    <Height>80</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>70</XMid1>
+    <YMid1>27</YMid1>
+    <XMid2>123</XMid2>
+    <YMid2>67</YMid2>
+    <XMid3>70</XMid3>
+    <YMid3>107</YMid3>
+    <XMid4>17</XMid4>
+    <YMid4>67</YMid4>
+    <YesBlock>2</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Start</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes336242016_09_16_12_27_23_AM</ParamID>
+    <DispName>Start</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 1</StepName>
+    <Column1>231</Column1>
+    <Y1>79</Y1>
+    <Width>105</Width>
+    <Height>57</Height>
+    <Description>Login screen should be displayed.</Description>
+    <Expected>Login screen should be displayed.</Expected>
+    <Actual />
+    <XMid1>283</XMid1>
+    <YMid1>79</YMid1>
+    <XMid2>336</XMid2>
+    <YMid2>107</YMid2>
+    <XMid3>283</XMid3>
+    <YMid3>136</YMid3>
+    <XMid4>231</XMid4>
+    <YMid4>107</YMid4>
+    <YesBlock>24</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>2</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes883352016_09_16_12_27_23_AM</ParamID>
+    <DispName>Login Screen</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 2</StepName>
+    <Column1>419</Column1>
+    <Y1>60</Y1>
+    <Width>102</Width>
+    <Height>60</Height>
+    <Description>Primary mails should be displayed.</Description>
+    <Expected>Primary mails should be displayed.</Expected>
+    <Actual />
+    <XMid1>470</XMid1>
+    <YMid1>60</YMid1>
+    <XMid2>521</XMid2>
+    <YMid2>90</YMid2>
+    <XMid3>470</XMid3>
+    <YMid3>120</YMid3>
+    <XMid4>419</XMid4>
+    <YMid4>90</YMid4>
+    <YesBlock>11</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes766402016_09_16_12_27_23_AM</ParamID>
+    <DispName>Primary Mail </DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 3</StepName>
+    <Column1>639</Column1>
+    <Y1>61</Y1>
+    <Width>100</Width>
+    <Height>58</Height>
+    <Description>Compose window should be displayed</Description>
+    <Expected>Compose window should be displayed</Expected>
+    <Actual />
+    <XMid1>689</XMid1>
+    <YMid1>61</YMid1>
+    <XMid2>739</XMid2>
+    <YMid2>90</YMid2>
+    <XMid3>689</XMid3>
+    <YMid3>119</YMid3>
+    <XMid4>639</XMid4>
+    <YMid4>90</YMid4>
+    <YesBlock>19</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes935282016_09_16_12_27_23_AM</ParamID>
+    <DispName>Compose Mail</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 4</StepName>
+    <Column1>790</Column1>
+    <Y1>246</Y1>
+    <Width>107</Width>
+    <Height>67</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>843</XMid1>
+    <YMid1>246</YMid1>
+    <XMid2>897</XMid2>
+    <YMid2>279</YMid2>
+    <XMid3>843</XMid3>
+    <YMid3>313</YMid3>
+    <XMid4>790</XMid4>
+    <YMid4>279</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes658902016_09_16_12_27_23_AM</ParamID>
+    <DispName>Step 4</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR0</StepName>
+    <Column1>123</Column1>
+    <Y1>67</Y1>
+    <Width>231</Width>
+    <Height>107</Height>
+    <Description>Open Browser and enter url</Description>
+    <Expected />
+    <Actual />
+    <XMid1>1</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes61502016_09_16_12_27_23_AM</ParamID>
+    <DispName>Open Browser</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR1</StepName>
+    <Column1>336</Column1>
+    <Y1>107</Y1>
+    <Width>419</Width>
+    <Height>90</Height>
+    <Description>Enter user credentials and login</Description>
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>3</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes760252016_09_16_12_27_23_AM</ParamID>
+    <DispName>Login</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR2</StepName>
+    <Column1>521</Column1>
+    <Y1>90</Y1>
+    <Width>639</Width>
+    <Height>90</Height>
+    <Description>Click on compose tab</Description>
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>4</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes51892016_09_16_12_27_23_AM</ParamID>
+    <DispName>Click Compose</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 5</StepName>
+    <Column1>766</Column1>
+    <Y1>166</Y1>
+    <Width>94</Width>
+    <Height>64</Height>
+    <Description>Promotion tab should be displayed.</Description>
+    <Expected>Promotion tab should be displayed.</Expected>
+    <Actual />
+    <XMid1>813</XMid1>
+    <YMid1>166</YMid1>
+    <XMid2>860</XMid2>
+    <YMid2>198</YMid2>
+    <XMid3>813</XMid3>
+    <YMid3>230</YMid3>
+    <XMid4>766</XMid4>
+    <YMid4>198</YMid4>
+    <YesBlock>10</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes414002016_09_16_12_27_23_AM</ParamID>
+    <DispName>Navigate to Promotion Tab</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 6</StepName>
+    <Column1>759</Column1>
+    <Y1>316</Y1>
+    <Width>97</Width>
+    <Height>52</Height>
+    <Description>Sign out option should be displayed.</Description>
+    <Expected>Sign out option should be displayed.</Expected>
+    <Actual />
+    <XMid1>807</XMid1>
+    <YMid1>316</YMid1>
+    <XMid2>856</XMid2>
+    <YMid2>342</YMid2>
+    <XMid3>807</XMid3>
+    <YMid3>368</YMid3>
+    <XMid4>759</XMid4>
+    <YMid4>342</YMid4>
+    <YesBlock>26</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes72692016_09_16_12_27_23_AM</ParamID>
+    <DispName>Account Link</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 7</StepName>
+    <Column1>682</Column1>
+    <Y1>442</Y1>
+    <Width>96</Width>
+    <Height>60</Height>
+    <Description>Starred folder mails should be visible</Description>
+    <Expected>Starred folder mails should be visible</Expected>
+    <Actual />
+    <XMid1>730</XMid1>
+    <YMid1>442</YMid1>
+    <XMid2>778</XMid2>
+    <YMid2>472</YMid2>
+    <XMid3>730</XMid3>
+    <YMid3>502</YMid3>
+    <XMid4>682</XMid4>
+    <YMid4>472</YMid4>
+    <YesBlock>10</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes80232016_09_16_12_27_23_AM</ParamID>
+    <DispName>Folder Mails</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR3</StepName>
+    <Column1>521</Column1>
+    <Y1>90</Y1>
+    <Width>766</Width>
+    <Height>198</Height>
+    <Description>Click on promotion tab</Description>
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>9</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes862062016_09_16_12_27_23_AM</ParamID>
+    <DispName>Click Promotion</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR4</StepName>
+    <Column1>521</Column1>
+    <Y1>90</Y1>
+    <Width>759</Width>
+    <Height>342</Height>
+    <Description>Click on account link review options</Description>
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes55222016_09_16_12_27_23_AM</ParamID>
+    <DispName>Click Account Link</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR5</StepName>
+    <Column1>521</Column1>
+    <Y1>90</Y1>
+    <Width>682</Width>
+    <Height>472</Height>
+    <Description>Click on Starred folder.</Description>
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>11</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes74152016_09_16_12_27_23_AM</ParamID>
+    <DispName>Starred Folder</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR6</StepName>
+    <Column1>856</Column1>
+    <Y1>342</Y1>
+    <Width>790</Width>
+    <Height>279</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>10</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes654062016_09_16_12_27_23_AM</ParamID>
+    <DispName />
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR7</StepName>
+    <Column1>759</Column1>
+    <Y1>342</Y1>
+    <Width>336</Width>
+    <Height>107</Height>
+    <Description>Click signout link</Description>
+    <Expected />
+    <Actual />
+    <XMid1>10</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes960912016_09_16_12_27_23_AM</ParamID>
+    <DispName>Signout</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR7CONNECTOR7</StepName>
+    <Column1>813</Column1>
+    <Y1>230</Y1>
+    <Width>807</Width>
+    <Height>316</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>9</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes188352016_09_16_12_27_23_AM</ParamID>
+    <DispName>Click Account link</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR8</StepName>
+    <Column1>689</Column1>
+    <Y1>119</Y1>
+    <Width>759</Width>
+    <Height>342</Height>
+    <Description>Click on account link review options</Description>
+    <Expected />
+    <Actual />
+    <XMid1>4</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes56232016_09_16_12_27_23_AM</ParamID>
+    <DispName>Click account link</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 20</StepName>
+    <Column1>1032</Column1>
+    <Y1>109</Y1>
+    <Width>96</Width>
+    <Height>64</Height>
+    <Description>Mail sent message should be visible</Description>
+    <Expected>Mail sent message should be visible</Expected>
+    <Actual />
+    <XMid1>1080</XMid1>
+    <YMid1>109</YMid1>
+    <XMid2>1128</XMid2>
+    <YMid2>141</YMid2>
+    <XMid3>1080</XMid3>
+    <YMid3>173</YMid3>
+    <XMid4>1032</XMid4>
+    <YMid4>141</YMid4>
+    <YesBlock>10</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes942582016_09_16_12_27_23_AM</ParamID>
+    <DispName>Mail Sent</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR10</StepName>
+    <Column1>739</Column1>
+    <Y1>90</Y1>
+    <Width>1032</Width>
+    <Height>141</Height>
+    <Description>Click on sedn mail button
+</Description>
+    <Expected />
+    <Actual />
+    <XMid1>4</XMid1>
+    <YMid1>19</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes445222016_09_16_12_27_23_AM</ParamID>
+    <DispName>Send Mail</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR11</StepName>
+    <Column1>639</Column1>
+    <Y1>90</Y1>
+    <Width>1080</Width>
+    <Height>173</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>4</XMid1>
+    <YMid1>19</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes302522016_09_16_12_27_23_AM</ParamID>
+    <DispName />
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR12</StepName>
+    <Column1>1080</Column1>
+    <Y1>173</Y1>
+    <Width>807</Width>
+    <Height>316</Height>
+    <Description>Click on account link review options</Description>
+    <Expected />
+    <Actual />
+    <XMid1>19</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes162982016_09_16_12_27_23_AM</ParamID>
+    <DispName>Click Account link</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR13</StepName>
+    <Column1>730</Column1>
+    <Y1>442</Y1>
+    <Width>807</Width>
+    <Height>368</Height>
+    <Description>Click on account link review options</Description>
+    <Expected />
+    <Actual />
+    <XMid1>11</XMid1>
+    <YMid1>10</YMid1>
+    <XMid2>0</XMid2>
+    <YMid2>2</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes64912016_09_16_12_27_23_AM</ParamID>
+    <DispName>Click account link</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>Stop</StepName>
+    <Column1>140</Column1>
+    <Y1>298</Y1>
+    <Width>128</Width>
+    <Height>78</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>204</XMid1>
+    <YMid1>298</YMid1>
+    <XMid2>268</XMid2>
+    <YMid2>337</YMid2>
+    <XMid3>204</XMid3>
+    <YMid3>376</YMid3>
+    <XMid4>140</XMid4>
+    <YMid4>337</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>End</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes98582016_09_16_12_27_23_AM</ParamID>
+    <DispName>Stop</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR14</StepName>
+    <Column1>283</Column1>
+    <Y1>136</Y1>
+    <Width>204</Width>
+    <Height>298</Height>
+    <Description>Close Browser</Description>
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>24</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes422522016_09_16_12_27_23_AM</ParamID>
+    <DispName>Close Browser</DispName>
+    <Path>0</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 185</StepName>
+    <Column1>361</Column1>
+    <Y1>309</Y1>
+    <Width>98</Width>
+    <Height>74</Height>
+    <Description>User should be logged Successfully</Description>
+    <Expected>User should be logged Successfully</Expected>
+    <Actual />
+    <XMid1>410</XMid1>
+    <YMid1>309</YMid1>
+    <XMid2>459</XMid2>
+    <YMid2>346</YMid2>
+    <XMid3>410</XMid3>
+    <YMid3>383</YMid3>
+    <XMid4>361</XMid4>
+    <YMid4>346</YMid4>
+    <YesBlock>24</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes151002016_09_16_12_27_23_AM</ParamID>
+    <DispName>Logout Page</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR15</StepName>
+    <Column1>759</Column1>
+    <Y1>342</Y1>
+    <Width>459</Width>
+    <Height>346</Height>
+    <Description>Click On sign out link</Description>
+    <Expected />
+    <Actual />
+    <XMid1>10</XMid1>
+    <YMid1>26</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes683732016_09_16_12_27_23_AM</ParamID>
+    <DispName>Sign Out</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR16</StepName>
+    <Column1>361</Column1>
+    <Y1>346</Y1>
+    <Width>268</Width>
+    <Height>337</Height>
+    <Description>Browser Close</Description>
+    <Expected />
+    <Actual />
+    <XMid1>26</XMid1>
+    <YMid1>24</YMid1>
+    <XMid2>3</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes964302016_09_16_12_27_23_AM</ParamID>
+    <DispName>Close Browser</DispName>
+    <Path>1</Path>
+  </MainData>
+  <MainData>
+    <StepName>Step 186</StepName>
+    <Column1>1254</Column1>
+    <Y1>275</Y1>
+    <Width>80</Width>
+    <Height>73</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>1294</XMid1>
+    <YMid1>275</YMid1>
+    <XMid2>1334</XMid2>
+    <YMid2>311</YMid2>
+    <XMid3>1294</XMid3>
+    <YMid3>348</YMid3>
+    <XMid4>1254</XMid4>
+    <YMid4>311</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>False</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes729972016_09_16_12_27_23_AM</ParamID>
+    <DispName>Step 186</DispName>
+    <Path>0</Path>
+  </MainData>
+  <Step_x0020_1>
+    <Attribute_x0020_Name>Input Params</Attribute_x0020_Name>
+    <Attribute_x0020_Value>URL</Attribute_x0020_Value>
+  </Step_x0020_1>
+  <Step_x0020_1>
+    <Attribute_x0020_Name>Input Params</Attribute_x0020_Name>
+    <Attribute_x0020_Value>Password</Attribute_x0020_Value>
+  </Step_x0020_1>
+  <Step_x0020_2>
+    <Attribute_x0020_Name>UserID</Attribute_x0020_Name>
+    <Attribute_x0020_Value />
+  </Step_x0020_2>
+  <Step_x0020_3>
+    <Attribute_x0020_Name>Input Params</Attribute_x0020_Name>
+    <Attribute_x0020_Value>Email ID</Attribute_x0020_Value>
+  </Step_x0020_3>
+</NewDataSet>

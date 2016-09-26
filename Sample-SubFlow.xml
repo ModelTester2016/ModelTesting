@@ -1,0 +1,409 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <MainData>
+    <StepName>Start</StepName>
+    <Column1>119</Column1>
+    <Y1>88</Y1>
+    <Width>139</Width>
+    <Height>78</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>188</XMid1>
+    <YMid1>88</YMid1>
+    <XMid2>258</XMid2>
+    <YMid2>127</YMid2>
+    <XMid3>188</XMid3>
+    <YMid3>166</YMid3>
+    <XMid4>119</XMid4>
+    <YMid4>127</YMid4>
+    <YesBlock>2</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Start</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes314852016_09_16_12_28_01_AM</ParamID>
+    <DispName>Start</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 2</StepName>
+    <Column1>373</Column1>
+    <Y1>140</Y1>
+    <Width>139</Width>
+    <Height>63</Height>
+    <Description>Mail popup should display</Description>
+    <Expected>Mail popup should display</Expected>
+    <Actual />
+    <XMid1>442</XMid1>
+    <YMid1>140</YMid1>
+    <XMid2>512</XMid2>
+    <YMid2>171</YMid2>
+    <XMid3>442</XMid3>
+    <YMid3>203</YMid3>
+    <XMid4>373</XMid4>
+    <YMid4>171</YMid4>
+    <YesBlock>4</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes538722016_09_16_12_28_01_AM</ParamID>
+    <DispName>Mail popup should display</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 3</StepName>
+    <Column1>681</Column1>
+    <Y1>157</Y1>
+    <Width>113</Width>
+    <Height>55</Height>
+    <Description>Error displayed as 'TO Field Empty'</Description>
+    <Expected>Error displayed as 'TO Field Empty'</Expected>
+    <Actual />
+    <XMid1>737</XMid1>
+    <YMid1>157</YMid1>
+    <XMid2>794</XMid2>
+    <YMid2>184</YMid2>
+    <XMid3>737</XMid3>
+    <YMid3>212</YMid3>
+    <XMid4>681</XMid4>
+    <YMid4>184</YMid4>
+    <YesBlock>4</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes931732016_09_16_12_28_01_AM</ParamID>
+    <DispName>Error displayed</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 4</StepName>
+    <Column1>432</Column1>
+    <Y1>311</Y1>
+    <Width>122</Width>
+    <Height>55</Height>
+    <Description>Email should entered</Description>
+    <Expected>Should accept</Expected>
+    <Actual />
+    <XMid1>493</XMid1>
+    <YMid1>311</YMid1>
+    <XMid2>554</XMid2>
+    <YMid2>338</YMid2>
+    <XMid3>493</XMid3>
+    <YMid3>366</YMid3>
+    <XMid4>432</XMid4>
+    <YMid4>338</YMid4>
+    <YesBlock>5</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes250902016_09_16_12_28_01_AM</ParamID>
+    <DispName>To Email ID</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 5</StepName>
+    <Column1>520</Column1>
+    <Y1>452</Y1>
+    <Width>163</Width>
+    <Height>72</Height>
+    <Description>Subject should be entered</Description>
+    <Expected>Subject should be entered</Expected>
+    <Actual />
+    <XMid1>601</XMid1>
+    <YMid1>452</YMid1>
+    <XMid2>683</XMid2>
+    <YMid2>488</YMid2>
+    <XMid3>601</XMid3>
+    <YMid3>524</YMid3>
+    <XMid4>520</XMid4>
+    <YMid4>488</YMid4>
+    <YesBlock>6</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes994702016_09_16_12_28_01_AM</ParamID>
+    <DispName>Subject </DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>Step 6</StepName>
+    <Column1>352</Column1>
+    <Y1>587</Y1>
+    <Width>146</Width>
+    <Height>66</Height>
+    <Description>Mail Body should be saved</Description>
+    <Expected>Mail Body should be saved</Expected>
+    <Actual />
+    <XMid1>425</XMid1>
+    <YMid1>587</YMid1>
+    <XMid2>498</XMid2>
+    <YMid2>620</YMid2>
+    <XMid3>425</XMid3>
+    <YMid3>653</YMid3>
+    <XMid4>352</XMid4>
+    <YMid4>620</YMid4>
+    <YesBlock>7</YesBlock>
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Step</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes345942016_09_16_12_28_01_AM</ParamID>
+    <DispName>Mail Body</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>Stop</StepName>
+    <Column1>704</Column1>
+    <Y1>658</Y1>
+    <Width>130</Width>
+    <Height>81</Height>
+    <Description />
+    <Expected />
+    <Actual />
+    <XMid1>769</XMid1>
+    <YMid1>658</YMid1>
+    <XMid2>834</XMid2>
+    <YMid2>698</YMid2>
+    <XMid3>769</XMid3>
+    <YMid3>739</YMid3>
+    <XMid4>704</XMid4>
+    <YMid4>698</YMid4>
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>End</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes138362016_09_16_12_28_01_AM</ParamID>
+    <DispName>Stop</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR0</StepName>
+    <Column1>258</Column1>
+    <Y1>127</Y1>
+    <Width>373</Width>
+    <Height>171</Height>
+    <Description>Click Compose</Description>
+    <Expected />
+    <Actual />
+    <XMid1>1</XMid1>
+    <YMid1>2</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes975272016_09_16_12_28_01_AM</ParamID>
+    <DispName>Click compose email</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR1</StepName>
+    <Column1>512</Column1>
+    <Y1>171</Y1>
+    <Width>681</Width>
+    <Height>184</Height>
+    <Description>Click Send Email</Description>
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>3</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes882662016_09_16_12_28_01_AM</ParamID>
+    <DispName>Click Send Email</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR2</StepName>
+    <Column1>442</Column1>
+    <Y1>203</Y1>
+    <Width>493</Width>
+    <Height>311</Height>
+    <Description>Enter To Field</Description>
+    <Expected />
+    <Actual />
+    <XMid1>2</XMid1>
+    <YMid1>4</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes600942016_09_16_12_28_01_AM</ParamID>
+    <DispName>Enter To Field</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR3</StepName>
+    <Column1>737</Column1>
+    <Y1>212</Y1>
+    <Width>554</Width>
+    <Height>338</Height>
+    <Description>Enter To Field</Description>
+    <Expected />
+    <Actual />
+    <XMid1>3</XMid1>
+    <YMid1>4</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>1</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes668692016_09_16_12_28_01_AM</ParamID>
+    <DispName>Enter To Field</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR4</StepName>
+    <Column1>493</Column1>
+    <Y1>366</Y1>
+    <Width>601</Width>
+    <Height>452</Height>
+    <Description>Enter Subject</Description>
+    <Expected />
+    <Actual />
+    <XMid1>4</XMid1>
+    <YMid1>5</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes809462016_09_16_12_28_01_AM</ParamID>
+    <DispName>Enter Subject</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR5</StepName>
+    <Column1>601</Column1>
+    <Y1>524</Y1>
+    <Width>425</Width>
+    <Height>587</Height>
+    <Description>Enter Mail Body</Description>
+    <Expected />
+    <Actual />
+    <XMid1>5</XMid1>
+    <YMid1>6</YMid1>
+    <XMid2>2</XMid2>
+    <YMid2>0</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes179982016_09_16_12_28_01_AM</ParamID>
+    <DispName>Enter Mail Body</DispName>
+    <Path />
+  </MainData>
+  <MainData>
+    <StepName>CONNECTOR6</StepName>
+    <Column1>498</Column1>
+    <Y1>620</Y1>
+    <Width>704</Width>
+    <Height>698</Height>
+    <Description>Click Send Email</Description>
+    <Expected />
+    <Actual />
+    <XMid1>6</XMid1>
+    <YMid1>7</YMid1>
+    <XMid2>1</XMid2>
+    <YMid2>3</YMid2>
+    <XMid3 />
+    <YMid3 />
+    <XMid4 />
+    <YMid4 />
+    <YesBlock />
+    <NoBlock />
+    <AnyBlock />
+    <BlockType>Condition</BlockType>
+    <ActiveFlag>True</ActiveFlag>
+    <StopAttr>Continue</StopAttr>
+    <MaxIteration>1</MaxIteration>
+    <BoxID />
+    <ParamID>Attributes321382016_09_16_12_28_01_AM</ParamID>
+    <DispName>Click Send Email</DispName>
+    <Path />
+  </MainData>
+</NewDataSet>
